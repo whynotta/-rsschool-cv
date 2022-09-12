@@ -59,22 +59,25 @@ h6 {
   position: absolute;
   margin: 0 auto;
   font-family: "Roboto Condensed", sans-serif;
-  font-size: 25px;
+  font-size: 18px;
   line-height: 1, 5;
+  right: 650px;
+  top: 350px;
 }
 .education {
   margin: 0 auto;
   position: absolute;
-  top: 470px;
+  top: 700px;
+  right: 630px;
   font-size: 13px;
   line-height: 1, 5;
 }
 .lang {
   margin: 0 auto;
   position: absolute;
-  bottom: 10px;
-  right: 350px;
+  bottom: 140px;
+  left: 670px;
   color: white;
-  font-size: 15px;
+  font-size: 17px;
   font-family: "Roboto Condensed", sans-serif;
 }
