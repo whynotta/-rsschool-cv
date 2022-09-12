@@ -1,2 +1,1 @@
- https://whynotta.github.io/rsschool-cv/cv
-# -rsschool-cv
+https://whynotta.github.io/rsschool-cv/
