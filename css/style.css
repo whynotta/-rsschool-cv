@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+
+    font-size: 15px;
+    color: 333;
+    line-height: 1.6;
+}
+*,
+*:before,
+*:after
+{ 
+    box-sizing: border-box;
+ }
+
+ h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+ }
+
+/*container */
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* intro */
+.intro {
+    background:
+    url("../css/intro.jpg") center
+    no-repeat;
+    background-size: cover;
+    width: 50%;
+    max-width: 700px;
+    height: auto;
+    min-height: 965px;
+    margin: 0 auto;
+ }
+  .intro_inner {
+        width: 100%;
+        max-width: 400px;
+        margin: 0 auto;
+        position: absolute;
+        top: 100px;
+        right: 200px;
+ }
+ /* main */
+ .myself {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    top: 230px;
+    right: 430px;
+    font-size: 9px;
+  }
